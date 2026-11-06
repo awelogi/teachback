@@ -89,7 +89,7 @@ insert into tb_kelompok(nomor, materi, segmen, urut) values
   (15, 'Self-Hypnosis', 2, 3),
   (17, 'Memahami Lebih Dalam tentang Bullying', 2, 4),
   (4,  'Pengenalan Huruf Bahasa Isyarat', 3, 1),
-  (11, 'Skill Menggambar Karikatur/Anime', 3, 2),
+  (11, 'Menghitung Personal Year Number (Numerology)', 3, 2),
   (13, 'Memahami Seseorang dari Body Language', 3, 3),
   (16, 'Teori Komposisi Fotografi', 3, 4),
   (1,  'Pembuatan Aplikasi Semudah Chatting', 4, 1),
